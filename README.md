@@ -15,6 +15,6 @@ Subscriber Rating: 4.5 out of 5 rating [4 Ratings] Subscriber Reviews
 
 https://proquestcombo-safaribooksonline-com.res.banq.qc.ca/video/programming/javascript/9781771374569
 
-Bookmark: Assertions
+Bookmark: How JS Unit Test Is Different
 
 
